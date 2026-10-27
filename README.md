@@ -19,7 +19,6 @@
 
 📂 كيفية تشغيل المشروع محلياً (How to Run)
 
-1. قم بعمل Clone للمستودع: bash
 git clone [https://github.com/ghufran-desginer/Rovana-ghufran-abdulsalam.git](https://github.com/ghufran-desginer/Rovana-ghufran-abdulsalam.git)
 
-2.
+
